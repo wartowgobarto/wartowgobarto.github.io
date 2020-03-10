@@ -67,9 +67,10 @@
     },
     "favicon": false,
     "robotsSwitcher": false,
-    "sitemapSwitcher": false,
-    "sitemapSwitcherAuto": false,
-    "siteUrl": false
+    "sitemapSwitcher": true,
+    "sitemapSwitcherAuto": "on",
+    "siteUrl": "http://wartowgobarto.pl",
+    "google-analytics": "praca rekrutacja gobarto pracodawca"
   },
   "pages": {
     "index.html": {
